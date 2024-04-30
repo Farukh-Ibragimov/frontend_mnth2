@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<!--<div id="myDiv">-->
+<!--    <p>Нашмите на кнопку</p>-->
+<!--</div>-->
+<!--<button id = "myButton">кнопка</button>-->
+<!--<h1 class="text">Hello world </h1>-->
+<!--<h1 class="text">Hello world </h1>-->
+<!--<h1>Hello world </h1>-->
+<!--<h1 id="text">Hello world </h1>-->
+
+<main id="blog-posts">
+
+</main>
+
+<form id="blog-form">
+    <h2>Добавьте статью</h2>
+
+    <label for="title">Заголовок:</label>
+    <input type="text" id="title" required>
+
+    <label for="content">Содержание:</label>
+    <textarea name="content" id="content" rows="4" required></textarea>
+
+    <button onclick="addBlogPost()">Опубликовать</button>
+</form>
+
+<form id="myForm">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name">
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email">
+    <br>
+    <button type="submit">Send</button>
+
+</form>
+</body>
+<script src="app.js"></script>
+</html>
