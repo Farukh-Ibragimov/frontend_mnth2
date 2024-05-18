@@ -1,0 +1,23 @@
+{
+  "name": "Farukh",
+  "age": 19,
+  "address": {
+    "street": "Pobeda 15",
+    "city": "Shopokov"
+  },
+  "profession": null,
+  "study": {
+    "university": "KTMU",
+    "faculty": "Engineering",
+    "course": "Hazırlık",
+    "languages": [
+      "Turkish",
+      "Kyrgyz"
+    ],
+    "classes": "Turkish C1"
+  },
+  "favoriteSubjects": [
+    "physics",
+    "geometry"
+  ]
+}

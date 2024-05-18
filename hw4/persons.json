@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Harry Potter",
+    "age": 15,
+    "photo" : "images/harry-potter.webp"
+  },
+  {
+    "name": "Hermione Granger",
+    "age": 15,
+    "photo" : "images/hermione-granger.webp"
+  },
+  {
+    "name": "Ron Weasley",
+    "age": 15,
+    "photo" : "images/ron-weasley.webp"
+  },
+  {
+    "name": "Sirius Black",
+    "age": 36,
+    "photo" : "images/sirius-black.webp"
+  },
+  {
+    "name": "Rimus Lupin",
+    "age": 38,
+    "photo" : "images/rimus-lupin.webp"
+  },
+  {
+    "name": "Severus Snape",
+    "age": 38,
+    "photo" : "images/severus-snape.webp"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "age": 90,
+    "photo" : "images/dumbledore.webp"
+  }
+]
