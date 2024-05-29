@@ -10,6 +10,7 @@ console.log(containsOnlyDigits("12a45"));
  },1000)}
 seconds()
 
+
 const count = ()=>{
     let i = 1
     const interval = setInterval(()=>{
